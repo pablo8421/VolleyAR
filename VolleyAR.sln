@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F9403BB0-E3F5-7CAF-A16E-3F16D0F637B7}") = "VolleyAR", "Assembly-CSharp.csproj", "{E4A75B7A-146D-4EC1-471E-2B85DE0B39D6}"
+EndProject
+Project("{F9403BB0-E3F5-7CAF-A16E-3F16D0F637B7}") = "VolleyAR", "Assembly-CSharp-Editor.csproj", "{A7D789CF-59E2-1070-B8EA-4F5245681460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A75B7A-146D-4EC1-471E-2B85DE0B39D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A75B7A-146D-4EC1-471E-2B85DE0B39D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A75B7A-146D-4EC1-471E-2B85DE0B39D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A75B7A-146D-4EC1-471E-2B85DE0B39D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D789CF-59E2-1070-B8EA-4F5245681460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D789CF-59E2-1070-B8EA-4F5245681460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D789CF-59E2-1070-B8EA-4F5245681460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D789CF-59E2-1070-B8EA-4F5245681460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
